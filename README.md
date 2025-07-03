@@ -1,6 +1,5 @@
 # Air-Traffic-Simulation
-This project simulates a swarm of delivery drones operating in a city environment, 
-with machine learning capabilities for optimized routing and demand forecasting.
+A multi-agent air traffic control simulation featuring autonomous delivery drones operating in a dynamic urban environment. This project integrates **Reinforcement Learning (Q-learning)** and **A* pathfinding** with real-time visualization using **Pygame**.
 
 ## Features
 
