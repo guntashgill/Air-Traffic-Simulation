@@ -26,17 +26,3 @@ with machine learning capabilities for optimized routing and demand forecasting.
 - TensorFlow
 - joblib
 
-## Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/swarm-delivery-simulation.git
-cd swarm-delivery-simulation
-
-# Create virtual environment (recommended)
-python -m venv venv
-source venv/bin/activate  # Linux/MacOS
-venv\Scripts\activate    # Windows
-
-# Install dependencies
-pip install -r requirements.txt
